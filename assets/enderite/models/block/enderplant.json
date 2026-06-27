@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "enderite:block/enderplant",
+    "particle": "enderite:block/ender"
+  },
+  "render_type": "cutout"
+}
