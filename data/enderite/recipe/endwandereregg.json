@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "enderite:endriteshard",
+    "b": "enderite:enderiteingot"
+  },
+  "result": {
+    "id": "enderite:endwanderer_spawn_egg",
+    "count": 1
+  }
+}

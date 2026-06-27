@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd",
+    " e"
+  ],
+  "key": {
+    "a": "minecraft:carrot",
+    "b": "minecraft:cooked_beef",
+    "c": "minecraft:cooked_mutton",
+    "d": "minecraft:beetroot",
+    "e": "minecraft:bread"
+  },
+  "result": {
+    "id": "enderite:kebab",
+    "count": 1
+  }
+}

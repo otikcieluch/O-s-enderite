@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="enderite"
+version="1.6.0"
+displayName="enderite "
+displayURL="https://modrinth.com/mod/os-enderite"
+logoFile="logo.png"
+credits="otikcieluch on modrinth on everything else  GutturalAttic2"
+authors="otikcieluch or  GutturalAttic2"
+description="Adds new ores, tools, mobs, blocks and structures based on Enderite \u2014 a powerful resource from the End."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.enderite]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.4.123,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.enderite]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.4]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "enderite:endcamp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 75,
+    "separation": 15,
+    "salt": 267507307
+  }
+}

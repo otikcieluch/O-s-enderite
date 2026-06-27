@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "ab",
+    " b"
+  ],
+  "key": {
+    "a": "enderite:enderiteblock",
+    "b": "minecraft:end_rod"
+  },
+  "result": {
+    "id": "enderite:enderiteaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "id": "enderite:kebab"
+    },
+    "title": {
+      "translate": "advancements.kebabeater.title"
+    },
+    "description": {
+      "translate": "advancements.kebabeater.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kebabeater_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "enderite:kebab"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "minecraft:husbandry/plant_seed"
+}
